@@ -5,8 +5,8 @@ I worked with a partner and used Stata to analyze the effect of beer taxes on al
 ## Data
 We collected alcohol-related fatality data from the National Highway Traffic Safety Administration and data on beer taxes from the Tax Foundation. Control variables were collected from other, primarily government, websites.
 
-## Do file
-The Stata code to replicate our results is included in the do file.
+## Do-file
+The Stata code to replicate our results is included in the do-file.
 
 ## Paper
 Our paper reviews the process of the project including literature review, empirical approach, and results sections.
