@@ -13,3 +13,6 @@ Our paper reviews the process of the project including literature review, empiri
 
 ## Poster
 poster.pdf provides an overview of the sections of our paper. Bradford and I presented the poster at an on-campus poster presentation in 2023.
+
+This project taught me the foundation of econometric analysis that I have since used to complete two similar projects. I hope to continue to practice econometrics to better understand the world.
+
